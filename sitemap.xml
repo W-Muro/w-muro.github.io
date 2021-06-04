@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/update/2021/05/23/published_post.html</loc>
+<loc>https://w-muro.github.io//jekyll/update/2021/05/23/published_post.html</loc>
 <lastmod>2021-05-23T10:19:28+09:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://w-muro.github.io//blog/article-index</loc>
 </url>
 <url>
-<loc>/blog</loc>
+<loc>https://w-muro.github.io//blog/essay</loc>
+</url>
+<url>
+<loc>https://w-muro.github.io//blog/hobby</loc>
+</url>
+<url>
+<loc>https://w-muro.github.io//</loc>
+</url>
+<url>
+<loc>https://w-muro.github.io//blog</loc>
+</url>
+<url>
+<loc>https://w-muro.github.io//blog/living</loc>
+</url>
+<url>
+<loc>https://w-muro.github.io//blog/tech-and-design</loc>
+</url>
+<url>
+<loc>https://w-muro.github.io//blog/travel</loc>
 </url>
 </urlset>

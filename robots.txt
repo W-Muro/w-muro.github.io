@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://w-muro.github.io//sitemap.xml
