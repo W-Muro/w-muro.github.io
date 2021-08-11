@@ -1,17 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://w-muro.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://w-muro.github.io//" rel="alternate" type="text/html" /><updated>2021-06-05T02:47:34+09:00</updated><id>https://w-muro.github.io//feed.xml</id><title type="html">66g</title><subtitle>雑記と写真のウェブサイト「66g(ログ)」です。</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://w-muro.github.io//jekyll/update/2021/05/23/published_post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-05-23T10:19:28+09:00</published><updated>2021-05-23T10:19:28+09:00</updated><id>https://w-muro.github.io//jekyll/update/2021/05/23/published_post</id><content type="html" xml:base="https://w-muro.github.io//jekyll/update/2021/05/23/published_post.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://w-muro.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://w-muro.github.io//" rel="alternate" type="text/html" /><updated>2021-08-11T09:45:04+09:00</updated><id>https://w-muro.github.io//feed.xml</id><title type="html">66g</title><subtitle>雑記と写真のウェブサイト「66g(ログ)」です。</subtitle><entry><title type="html">【漫画感想】五等分の花嫁</title><link href="https://w-muro.github.io//hobby/2021/02/10/Manga-report-of-The-Quintessential-Quintuplets.html" rel="alternate" type="text/html" title="【漫画感想】五等分の花嫁" /><published>2021-02-10T00:00:00+09:00</published><updated>2021-02-10T00:00:00+09:00</updated><id>https://w-muro.github.io//hobby/2021/02/10/Manga%20report%20of%20The%20Quintessential%20Quintuplets</id><content type="html" xml:base="https://w-muro.github.io//hobby/2021/02/10/Manga-report-of-The-Quintessential-Quintuplets.html">&lt;div class=&quot;post-table_of_contents&quot;&gt;
+  &lt;h2&gt;目次&lt;/h2&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href=&quot;概要とあらすじ&quot;&gt;概要とあらすじ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;作品全体の感想&quot;&gt;作品全体の感想&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;五つ子姉妹の個性あふれる可愛さに注目&quot;&gt;五つ子姉妹の個性あふれる可愛さに注目&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;乙女心は分からないが一本筋の通った主人公&quot;&gt;乙女心は分からないが一本筋の通った主人公&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;あとがき&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;h2 id=&quot;概要とあらすじ&quot;&gt;概要とあらすじ&lt;/h2&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;タイトル : 五等分の花嫁&lt;br /&gt;
+作者 :  春場ねぎ&lt;br /&gt;
+あらすじ：&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;貧乏な生活を送る高校2年生・上杉風太郎のもとに、好条件の家庭教師アルバイトの話が舞い込む。ところが教え子はなんと同級生!!しかも五つ子だった!!全員美少女、だけど「落第寸前」「勉強嫌い」の問題児！最初の課題は姉妹からの信頼を勝ち取ること…!?毎日がお祭り騒ぎ！中野家の五つ子が贈る、かわいさ500％の五人五色ラブコメ開演!!&lt;br /&gt;
+引用元：マガポケ 作品ページ&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;作品全体の感想&quot;&gt;作品全体の感想&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;ヒロイン&quot;&gt;ヒロイン&lt;/h3&gt;
+&lt;p&gt;メインヒロイン五人それぞれの個性あふれる可愛さと、上杉の登場で変化していく想いを繊細に表現しているのが、作品全体を通しての魅力に感じました。&lt;br /&gt;
+主人公である上杉を中心に描きながらも、姉妹同士での支え合いや衝突にも多くフォーカスすることによるストーリーの厚みもよかったです。&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h3 id=&quot;主人公&quot;&gt;主人公&lt;/h3&gt;
+&lt;p&gt;主人公、上杉風太郎は嫌味な感じはなく、失言があってもすぐに気付いて悩んだり謝っているところは頭の良い主人公という前提をしっかりと反映していて好感が持てました。&lt;br /&gt;
+ちょろっと気になる言動はあったのですが、基本的に終始芯の通った言動をしており、姉妹と共に成長していく様子がよく描かれていました。&lt;/p&gt;
+
+&lt;h3 id=&quot;ストーリー&quot;&gt;ストーリー&lt;/h3&gt;
+
+&lt;p&gt;同じシーンを別々のキャラの角度から描いたり、時系列を入れ替えるような描き方をよくしており、この先どうなるのかや話の繋がりを意識しながら読むのが楽しかったです。&lt;br /&gt;
+重いシリアスや辛くなるような大袈裟なシーンは無く、等身大の葛藤や迷いが良く描かれていた部分も評価が高いです。&lt;br /&gt;
+それぞれの気持ちの変化と、そこから成長していこうとする想いにも感動させられました。&lt;br /&gt;
+&lt;br /&gt; ちょっと引っかかった部分としては、どうやって移動したんだろうと思うところや時間のわりに移動距離が長く感じることがちょいちょいあったところですかね。&lt;br /&gt;
+細かいことですがシリアスシーンでこう言った場面があるとちょっと気になってしまいます。&lt;br /&gt;
+しかし、伏線回収や過去のセリフとの対比で成長を見せるような部分は秀逸で、読み返した時の気づきが多いことには非常に感心させられました。&lt;br /&gt;
+一花のふともも話が良い例じゃないかと思います。&lt;br /&gt;
+気づくまで3周かかっちゃいました（笑）&lt;br /&gt;
+&lt;br /&gt;
+あれこれ書きましたが、全体を通してストーリーがしっかりしており、5姉妹の可愛さと、上杉を加えた6人の成長をとてもよく表現していたと思います。&lt;br /&gt;
+ラブコメというと告白エンドが多い印象のなか、告白後の話をしっかりと描き切っているところも見所です！&lt;/p&gt;
+
+&lt;h2 id=&quot;五つ子姉妹の個性あふれる可愛さに注目&quot;&gt;五つ子姉妹の個性あふれる可愛さに注目&lt;/h2&gt;
+
+&lt;h3 id=&quot;一花&quot;&gt;一花&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;やった
+（7巻 58話より）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一花は、ひょうひょうとしていて本心が見分けづらい性格でした。&lt;br /&gt;
+そこが女優という別の人物を演じる必要のある職業とマッチしていて、彼女の魅力をよく表していたのではないでしょうか？&lt;br /&gt;
+上杉への好意も真っ直ぐには伝えられず、嘘と演技で迫っていく姿にはドキドキさせられました。&lt;br /&gt;
+冒頭のセリフ「やった」の時に初めて見せる悪い表情はとても印象的でしたね。&lt;br /&gt;
+当初はお姉さんとして三玖の応援をしなければと一歩引いた立ち位置を守っていましたが、四葉の後押しと二乃の上杉への好意を知った焦りから暴走してしまう姿は見ていて辛いものがありました。&lt;br /&gt;
+しかし、最終的には陰のない本心で話しながらも自分の想いは秘めて、明るく四葉と上杉を応援している姿に彼女の成長を感じました。&lt;br /&gt;
+最後まで小悪魔っぷりも発揮していましたけどね。&lt;/p&gt;
+
+&lt;h3 id=&quot;二乃&quot;&gt;二乃　&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;あんたを好きって言ったのよ
+（8巻60話より）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;どこまでも姉妹想い、家族想いだった二乃。&lt;br /&gt;
+それが災いして姉妹とぶつかることも多かったですがその根底には常に愛情が見て取れました。&lt;br /&gt;
+疎遠な父親とのやりとりが一番多かったのも二乃だったのではないでしょうか。&lt;br /&gt;
+自分を強く持っており、上杉に馴染むのも一番最後でした。&lt;br /&gt;
+しかし一度受け入れてしまえばそれが好意に変わるのもとても早く、姉妹で一番最初の告白には二乃らしさを感じました。&lt;br /&gt;
+特に、一度告白に失敗してからすぐにもう一度伝えた冒頭のセリフは二乃の性格と生き様を体現していたのではないでしょうか？&lt;br /&gt;
+唯一髪型を変えており、表情の豊かさも相まって様々な姿を見せてくれました。&lt;br /&gt;
+姉妹随一のツンデレっぷりに彼女の虜になった人も少なくないのではないでしょうか？&lt;/p&gt;
+
+&lt;h3 id=&quot;三玖&quot;&gt;三玖&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ようやくそう思えるほどに…
+私は私を好きになれたんだ
+（14巻116話より）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;作品を通じて一番成長したのは三玖なのではないでしょうか。  　
+一番初めに上杉への好意を示しながらもなかなか行動に移せないものの、その健気な姿はとても可愛く人気投票でも一位を獲得していました。&lt;br /&gt;
+一花と二乃が上杉へ積極的にアタックをはじめると、二人と比べて自分を追い込んでしまうシーンもありました。&lt;br /&gt;
+しかしそれらを乗り越え、苦手だった料理の道を志して一人だけ専門学校への進学を決める姿には背中を押される思いでした。&lt;br /&gt;
+高校卒業から5年後には自分の店を持ち夢を叶えた彼女は今後もさらなる夢を追いかけて彼女らしく成長していくことでしょう。&lt;/p&gt;
+
+&lt;h3 id=&quot;四葉&quot;&gt;四葉&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;上杉さんのことを想い続けてる
+（14巻116話より）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;天真爛漫な元気っ子。
+しかしその内には、自分の存在意義に悩み特別な存在であろうとするも上手くいかないという暗い悩みを抱えていました。&lt;br /&gt;
+誰かの役に立つことで自分の価値を確かめ、自分の気持ちを押し殺して姉妹を応援する姿は狂気すら感じさせるほどでした。 &lt;br /&gt;
+自分を重ねてしまう部分もあり、13巻で上杉に選ばれてから先の話は涙が止まりませんでした。&lt;br /&gt;
+常に明るい表情を見せながらもその本質は非常に脆く、上杉が四葉を選んだ時には納得とともに強い安心を抱いたのを覚えています。&lt;br /&gt;
+上杉に選ばれてからも、それだけでは納得せずに姉妹と向き合う姿には彼女の人となり、支えてくれた姉妹への想いが溢れていました。&lt;br /&gt;
+人を支えることが自分に合っていると言っていた四葉。&lt;br /&gt;
+その後どのような道へ進んだかは描かれませんでしたが、五つ子の一人ではなく、四葉という個人を見とめてくれた上杉とともに、これからも彼女らしく明るく元気に突っ走って欲しいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;五月&quot;&gt;五月&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;上杉君 おめでとう
+（14巻118話より）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;付かず離れずの正ヒロイン、それが彼女に抱いた印象でした。&lt;br /&gt;
+最初に登場してからいつも話の中心におり、5姉妹の中で唯一上杉の家にも何度も訪れていました。&lt;br /&gt;
+しかし最後まで彼女が上杉に対してはっきりと想いを告げる場面はなく、14巻でのモヤモヤについても個人的には恋心ではなく、姉妹の確執への不安からのものだったのではないかと考察しています。&lt;br /&gt;
+上杉へのなぜ勉強をするのか？といった質問をはじめ、この作品の中心にあった学ぶことの意味にも一番言及しており、苦手だった勉強に人一倍向き合い努力している姿には自分も頑張らないといけないと励まされました。&lt;br /&gt;
+終始姉妹と上杉双方の良き相談役であった彼女にとって教職は天職なのではないでしょうか。&lt;br /&gt;
+母親の影を追いかけるところからはじまり、最後には自分の目指すべき目標としてはっきりと昇華させた彼女の未来には一本の明るい道が続いていることでしょう。&lt;/p&gt;
+
+&lt;h2 id=&quot;乙女心は分からないが一本筋の通った主人公&quot;&gt;乙女心は分からないが一本筋の通った主人公&lt;/h2&gt;
+
+&lt;h3 id=&quot;上杉風太郎&quot;&gt;上杉風太郎&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;俺はお前たち五人が好きだ
+（12巻99話より）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;誇れる人間になるために努力を惜しまず続けてきた努力家。&lt;br /&gt;
+勉強には絶対の自信を持ちながらも決して甘えず努力し続ける姿には強い意志を感じさせられました。&lt;br /&gt;
+また、当初は少々傲りがあるものの五姉妹に教えるだけでなく彼女たちから学び、かけがえのない相手として真剣に向き合う姿勢は主人公として申し分ないものでした。&lt;br /&gt;
+五姉妹の変装に惑わされる場面も多々ありましたが、なぜか四葉にだけはすぐに気付いてしまい演技が下手くそだと言っていました。&lt;br /&gt;
+しかし13巻では、演劇の舞台で四葉が見事な演技を披露しており、四葉の演技が下手なのではなく、愛があれば見分けられるという中野家の教えの本質に上杉も気付きます。&lt;br /&gt;
+五人全員を大切に想いながらも、最後には四葉一人へはっきりと想いを告げる男らしさを見せました。&lt;br /&gt;
+四葉への想いを通しただけでなく、四葉と二人で他の姉妹ともしっかりと向き合ったことでこれからも彼は五姉妹と良い関係を築いていけるでしょう。&lt;br /&gt;
+そして努力を怠らず真っ直ぐに歩んできた彼なら今後も曲がらず、四葉を幸せにしてくれると信じます。&lt;/p&gt;
+
+&lt;h2 id=&quot;あとがき&quot;&gt;あとがき&lt;/h2&gt;
+
+&lt;p&gt;人間味豊かで後腐れのない安心してストーリーと五姉妹の可愛さを楽しめる良い作品でした。&lt;br /&gt;
+初めのうちは気になってしまうシーンもちょこちょこあったのですが、中盤くらいから引っ掛かりを感じることもなくのめり込むように読んでしまいました。&lt;br /&gt;
+個人的には一花の悪い笑顔がすごく好みでしたね。&lt;br /&gt;
+四葉の本心に触れはじめてからは、彼女の葛藤に自分を重ねてしまい上杉が四葉を選んだ時には大号泣してしまいました。&lt;br /&gt;
+ただただ、おめでとうと思っていましたが父親目線にでもなっていたのでしょうか？（笑）
+久々に読んだラブコメ漫画でしたがやっぱり恋愛っていいなって思いましたね。&lt;br /&gt;
+&lt;br /&gt;
+ちなみに、漫画やアニメは大好きなのですが、こうして感想を文章に興すのは初めてでした。&lt;br /&gt;
+気づけば感想というよりもキャラクター紹介のようになってしまっているように感じます。&lt;br /&gt;
+なぜ感想を書いてみようと思ったかというと、純粋にただただ作品を楽しんでいたころに比べると、なんだかただ消費しているのではないかと思うようになったからです。&lt;br /&gt;
+実際最近では一度読んだ作品を再度読み返すこともほぼ無く、最近読んだ作品もすぐ忘れてしまっていました。&lt;br /&gt;
+そこでこうして感想を書いてみたのですが、これが結構良いもので、あの時どんな想いだったんだろうか？どのシーンがよかっただろうか？と作品に想いを馳せる良い時間となりました。&lt;br /&gt;
+こんなに一つの漫画を読み込んだのは久しぶりなように感じます。&lt;br /&gt;
+今後もこうして感想を書いていけば、忘れた頃に振り返って当時の感想とその時の感じ方の違いなんかも楽しめる日が来るかもしれません。&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><category term="漫画感想" /><summary type="html">人気ラブコメ漫画「五等分の花嫁」が完結したということで、一気読みした感想です。</summary></entry><entry><title type="html">藤井聡太棋聖誕生と将棋ウォーズ2級になりました</title><link href="https://w-muro.github.io//hobby/2021/02/10/Souta-Fujii-became-Kisei-and-I-became-2-kyu-in-Shogi-Wars.html" rel="alternate" type="text/html" title="藤井聡太棋聖誕生と将棋ウォーズ2級になりました" /><published>2021-02-10T00:00:00+09:00</published><updated>2021-02-10T00:00:00+09:00</updated><id>https://w-muro.github.io//hobby/2021/02/10/Souta%20Fujii%20became%20Kisei%20and%20I%20became%202%20kyu%20in%20Shogi%20Wars</id><content type="html" xml:base="https://w-muro.github.io//hobby/2021/02/10/Souta-Fujii-became-Kisei-and-I-became-2-kyu-in-Shogi-Wars.html">&lt;p&gt;何を一緒くたにしているんだ、とお叱りを受けそうなタイトルになってしまいましたが記念すべき日なので何か書きたかった次第です。&lt;/p&gt;
+
+&lt;div class=&quot;post-table_of_contents&quot;&gt;
+  &lt;h2&gt;目次&lt;/h2&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;a href=&quot;藤井新棋聖おめでとうございます！&quot;&gt;藤井新棋聖おめでとうございます！&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;将棋ウォーズ2級になりました！&quot;&gt;&lt;/a&gt;将棋ウォーズ2級になりました！&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;あとがき&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;藤井新棋聖おめでとうございます&quot;&gt;藤井新棋聖おめでとうございます！&lt;/h2&gt;
+&lt;p&gt;棋聖戦第4局、相変わらず見事な寄せでした。&lt;br /&gt;
+&lt;strong&gt;玉は包むように寄せよ&lt;/strong&gt;とはこういうことだと、格言を体現するような寄せ方が印象的でした。&lt;br /&gt;
+渡辺棋聖の粘りもハラハラしましたね。&lt;br /&gt;
+追い込まれた対局でも1手受け間違えば即頓死の状態まで持っていくのはさすが棋聖の差し回しというのでしょうか。&lt;br /&gt;
+藤井七段も詰ませるまでに全ての持ち駒を使用するというギリギリの終盤でした。&lt;br /&gt;
+&lt;br /&gt;
+しかし、これだけひっ迫した対局だとAIの数値が出ているのは少し楽しみを削がれている感じもしてしまいますね。&lt;br /&gt;
+攻め合いの場面でも詰みが見えていると99%対1%のようになってしまい、どうしても数値の良い側の勝ちを確信してしまいますよね。&lt;br /&gt;
+今回の終盤もヒヤヒヤする場面にもかかわらずコメント欄はちょっと残念な感じでした。&lt;br /&gt;
+序中盤の難しい局面ではAIの手が気になりますが、終盤は自分でも考えながら詰むや詰まざるやを楽しみたいなと感じます。&lt;br /&gt;
+&lt;br /&gt;
+それにしても、藤井七段にはもちろん期待を寄せていたのですが、まさか本当にタイトルまで最年少で獲得してしまうとは驚愕です。&lt;br /&gt;
+しかも王位戦もすでに2勝しているんですよね。&lt;br /&gt;
+もう本当にどこまで行ってしまうのか計り知れない方です。&lt;br /&gt;
+&lt;br /&gt;
+コロナの件もあってだいぶキツそうな日程で戦っているのでお体には気をつけて、これからの対局でも名勝負を見せていただきたいです。&lt;/p&gt;
+
+&lt;h2 id=&quot;将棋ウォーズ2級になりました&quot;&gt;将棋ウォーズ2級になりました！&lt;/h2&gt;
+&lt;p&gt;蛇足の話題もちゃちゃっと紹介しようかと思います（笑）。
+いつから始めたかは覚えていないのですが、3級まではスムーズに昇級してそこで2年くらいは足踏みしていたでしょうか。&lt;br /&gt;
+そんなに好きだったわけでもなかったので暇だと指す程度から、ここ半年くらいは本気で取り組むようになっていました。（勉強はほとんどしていないのですが…。&lt;br /&gt;
+&lt;br /&gt;
+なぜか分かりませんが中飛車にハマり、それだけを指すことで勉強をしていなくとも段々と定石を理解して勝てるようになってきての昇級なので感慨深いものがあります。&lt;br /&gt;
+ちなみに昇級チャレンジは3度目の正直での昇級でした。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog-images-wm.s3-ap-northeast-1.amazonaws.com/2020-07-16_01.webp&quot; alt=&quot;昇級チャレンジ&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://blog-images-wm.s3-ap-northeast-1.amazonaws.com/2020-07-16_02.webp&quot; alt=&quot;2級昇級&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;比べるべくもないですが、藤井棋聖の誕生で将棋もますます盛り上がると思うので私も楽しみながら強くなりたいです。&lt;br /&gt;
+段々と勝率が落ちているのが気になりますが…&lt;br /&gt;
+目指せ初段！！&lt;br /&gt;
+&lt;br /&gt;
+藤井聡太棋聖誕生を祝って将棋ウォーズでプレゼントもしているようです。&lt;br /&gt;
+マイページを開くだけでもらえるものと、勝利数で藤井聡太棋聖のアバターもプレゼントされるようなので、まだの方は是非受け取ってください！&lt;/p&gt;
+
+&lt;div class=&quot;appreach&quot;&gt;&lt;img src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/ad/dd/e4addd63-2dfe-00e0-6bb2-ba7dcbfbfcf6/source/512x512bb.jpg&quot; alt=&quot;将棋ウォーズ&quot; class=&quot;appreach__icon&quot; /&gt;&lt;div class=&quot;appreach__detail&quot;&gt;&lt;p class=&quot;appreach__name&quot;&gt;将棋ウォーズ&lt;/p&gt;&lt;p class=&quot;appreach__info&quot;&gt;&lt;span class=&quot;appreach__developper&quot;&gt;HEROZ&lt;/span&gt;&lt;span class=&quot;appreach__price&quot;&gt;無料&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;appreach__links&quot;&gt;&lt;a href=&quot;https://apps.apple.com/jp/app/%25E5%25B0%2586%25E6%25A3%258B%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BA/id496801169?uo=4&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;appreach__aslink&quot;&gt;&lt;img src=&quot;https://nabettu.github.io/appreach/img/itune_ja.svg&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=jp.heroz.android.shogiwars&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;appreach__gplink&quot;&gt;&lt;img src=&quot;https://nabettu.github.io/appreach/img/gplay_ja.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;あとがき&quot;&gt;あとがき&lt;/h2&gt;
+&lt;p&gt;藤井棋聖はインタビューなんかを聞いてても素晴らしい人格者です。&lt;br /&gt;
+これだけ記録を作って強ければ少しくらい天狗になってもいいものを、隙のない将棋とコメントをしますよね。&lt;br /&gt;
+これからの将棋界を背負うに値する方だと疑う人はいないでしょう。&lt;br /&gt;
+まだ若いのでもう少しはっちゃけたといいますか、そんな場面も見てみたい気持ちもありますが…（笑）&lt;br /&gt;
+&lt;br /&gt;
+いつも将棋ウォーズだけで、誰かと面と向かって将棋を指すことがないのでお仲間がいれば&lt;a href=&quot;https://twitter.com/TYABUDAI6&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Twitter&lt;/a&gt;から声をかけていただけると嬉しいです！&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><category term="将棋ウォーズ" /><category term="将棋" /><summary type="html">藤井聡太棋聖誕生の感想と自分が将棋ウォーズ2級に昇級したことについてです。</summary></entry><entry><title type="html">趣味03</title><link href="https://w-muro.github.io//hobby/2021/02/02/hobby03.html" rel="alternate" type="text/html" title="趣味03" /><published>2021-02-02T00:00:00+09:00</published><updated>2021-02-02T00:00:00+09:00</updated><id>https://w-muro.github.io//hobby/2021/02/02/hobby03</id><content type="html" xml:base="https://w-muro.github.io//hobby/2021/02/02/hobby03.html"></content><author><name></name></author><category term="hobby" /><category term="将棋" /><category term="趣味" /><summary type="html">趣味03</summary></entry><entry><title type="html">暮らし03</title><link href="https://w-muro.github.io//living-and-money/2021/02/01/living03.html" rel="alternate" type="text/html" title="暮らし03" /><published>2021-02-01T00:00:00+09:00</published><updated>2021-02-01T00:00:00+09:00</updated><id>https://w-muro.github.io//living-and-money/2021/02/01/living03</id><content type="html" xml:base="https://w-muro.github.io//living-and-money/2021/02/01/living03.html"></content><author><name></name></author><category term="living-and-money" /><category term="株式" /><category term="お金" /><summary type="html">暮らしの知識</summary></entry><entry><title type="html">暮らし02</title><link href="https://w-muro.github.io//living-and-money/2021/01/24/living02.html" rel="alternate" type="text/html" title="暮らし02" /><published>2021-01-24T00:00:00+09:00</published><updated>2021-01-24T00:00:00+09:00</updated><id>https://w-muro.github.io//living-and-money/2021/01/24/living02</id><content type="html" xml:base="https://w-muro.github.io//living-and-money/2021/01/24/living02.html"></content><author><name></name></author><category term="living-and-money" /><category term="投資信託" /><category term="お金" /><summary type="html">暮らしの知識</summary></entry><entry><title type="html">趣味02</title><link href="https://w-muro.github.io//hobby/2021/01/22/hobby02.html" rel="alternate" type="text/html" title="趣味02" /><published>2021-01-22T00:00:00+09:00</published><updated>2021-01-22T00:00:00+09:00</updated><id>https://w-muro.github.io//hobby/2021/01/22/hobby02</id><content type="html" xml:base="https://w-muro.github.io//hobby/2021/01/22/hobby02.html"></content><author><name></name></author><category term="hobby" /><category term="ダイビング" /><category term="趣味" /><summary type="html">南大東島へのアクセス方法~船と飛行機の比較~</summary></entry><entry><title type="html">旅03</title><link href="https://w-muro.github.io//travel/2021/01/12/How-to-Get-Minamidaito-Island.html" rel="alternate" type="text/html" title="旅03" /><published>2021-01-12T00:00:00+09:00</published><updated>2021-01-12T00:00:00+09:00</updated><id>https://w-muro.github.io//travel/2021/01/12/How%20to%20Get%20Minamidaito%20Island</id><content type="html" xml:base="https://w-muro.github.io//travel/2021/01/12/How-to-Get-Minamidaito-Island.html"></content><author><name></name></author><category term="travel" /><category term="旅行記" /><category term="離島" /><category term="南大東島03" /><summary type="html">南大東島へのアクセス方法~船と飛行機の比較~</summary></entry><entry><title type="html">テック03</title><link href="https://w-muro.github.io//tech-and-design/2021/01/01/tech03.html" rel="alternate" type="text/html" title="テック03" /><published>2021-01-01T00:00:00+09:00</published><updated>2021-01-01T00:00:00+09:00</updated><id>https://w-muro.github.io//tech-and-design/2021/01/01/tech03</id><content type="html" xml:base="https://w-muro.github.io//tech-and-design/2021/01/01/tech03.html"></content><author><name></name></author><category term="tech-and-design" /><category term="HTML&amp;CSS" /><category term="プログラミング" /><summary type="html">テック03</summary></entry><entry><title type="html">テック02</title><link href="https://w-muro.github.io//tech-and-design/2020/12/29/tech02.html" rel="alternate" type="text/html" title="テック02" /><published>2020-12-29T00:00:00+09:00</published><updated>2020-12-29T00:00:00+09:00</updated><id>https://w-muro.github.io//tech-and-design/2020/12/29/tech02</id><content type="html" xml:base="https://w-muro.github.io//tech-and-design/2020/12/29/tech02.html"></content><author><name></name></author><category term="tech-and-design" /><category term="JavaScript" /><category term="プログラミング" /><summary type="html">テック02</summary></entry><entry><title type="html">エッセイ03</title><link href="https://w-muro.github.io//essay/2020/12/01/essay03.html" rel="alternate" type="text/html" title="エッセイ03" /><published>2020-12-01T00:00:00+09:00</published><updated>2020-12-01T00:00:00+09:00</updated><id>https://w-muro.github.io//essay/2020/12/01/essay03</id><content type="html" xml:base="https://w-muro.github.io//essay/2020/12/01/essay03.html"></content><author><name></name></author><category term="essay" /><category term="日記" /><category term="ひとりごと" /><summary type="html">エッセイ</summary></entry></feed>
