@@ -7,22 +7,24 @@
 <title>66g - 66g</title>
 
 <meta name="description" content="雑記と写真のウェブサイト「66g(ログ)」です。">
-<link rel="stylesheet" href="/assets/css/style.css?1628642704302038651">
-<script defer type="text/javascript" src="/assets/js/app.js"></script>
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Material+Icons+Round" rel="stylesheet">
+<!-- Google Fonts End -->
+<link rel="stylesheet" href="/assets/css/styles.css?1634973235112105431">
 <!-- GSAP -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/ScrollTrigger.min.js"></script>
+<!-- GSAP End-->
+<script type="text/javascript" src="/assets/js/app.js" defer></script>
 
 
 
   </head>
   <body>
-    <header class="l-header">
-  <div class="l-header-inner">
-    <nav class="l-header-navigation">
-      <a class="l-header-title" href="/">
-        <svg id="svg-main_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+    <header class="l-header l-container">
+  <div class="l-header-inner l-inner">
+    <a class="l-header-icon" href="/">
+      <svg id="svg-primary_icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
   <defs>
     <style>
       .a{fill:#424242;}.b{fill:#b4b4b4;}.c{fill:none;}
@@ -36,239 +38,493 @@
   </g>
 </svg>
 
-      </a>
-      <ul class="l-header-global_nav">
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/portfolio">Portfolio</a></li>
-        <li><a href="/about">About</a></li>
+    </a>
+    <nav class="l-header-global_nav">
+      <ul class="c-list-row l-header-global_nav-list">
+        
+          <li class="l-header-global_nav-list-item">
+            <a href="/blog">Blog</a>
+          </li>
+        
+          <li class="l-header-global_nav-list-item">
+            <a href="/portfolio">Portfolio</a>
+          </li>
+        
+          <li class="l-header-global_nav-list-item">
+            <a href="/about">About</a>
+          </li>
+        
       </ul>
     </nav>
-    <div class="l-header-section_title-wrap">
-      <h2 class="l-header-section_title">Blog</h2>
-    </div>
+    <h2 class="l-header-heading">Blog</h2>
   </div>
 </header>
 
-    <main>
-      <div class="c-category_menu">
-  <a class="c-button text" href="/blog">
-  <span class="c-button-text">全て</span>
-</a>
-
-  
+    <main class="l-container">
+      <div class="l-inner">
+        
+        
+          <nav class="p-page_nav l-container">
+  <ul class="p-page_nav-list l-inner">
+    <li class="p-page_nav-list-item">
+      <a class="c-button" href="/blog">
+        <span class="label">全て</span>
+      </a>
+    </li>
     
-    <a class="c-button text" href="/blog/travel">
-  <span class="c-button-text">旅と島</span>
-</a>
-
-  
-    
-    <a class="c-button text" href="/blog/tech-and-design">
-  <span class="c-button-text">テック&デザイン</span>
-</a>
-
-  
-    
-    <a class="c-button text" href="/blog/living-and-money">
-  <span class="c-button-text">暮らしとお金</span>
-</a>
-
-  
-    
-    <a class="c-button text" href="/blog/hobby">
-  <span class="c-button-text">趣味</span>
-</a>
-
-  
-    
-    <a class="c-button text" href="/blog/essay">
-  <span class="c-button-text">エッセイ</span>
-</a>
-
-  
-</div>
-
-      <div class="l-blog-container">
-        <section>
-  <div class="l-blog-article_card-list">
-    
-      <section class="p-article_card">
-  <a href="/hobby/2021/01/22/hobby02.html">
-    <img srcset="/assets/image/img-320.jpg 320w,
-                 /assets/image/img-640.jpg 640w,
-                 /assets/image/img-980.jpg 980w,
-                 /assets/image/img-1920.jpg 1920w"
-         sizes="(max-width: 320px) 100%,
-                (max-width: 640px) 100%,
-                (max-width: 980px) 100%, 100%"
-         src="/assets/image/img-1920.jpg" alt="趣味02"
-         decoding="async"
-         width="640" height="480"><!-- 4:3 -->
-    <div class="p-article_card-content">
-      <h2 class="p-article_card-title">趣味02</h2>
-      <div class="p-article_card-date">
-        <time datetime="2021-01-22">2021.01.22</time>
-      </div>
-    </div>
-  </a>
-</section>
-
-    
-      <section class="p-article_card">
-  <a href="/travel/2021/01/12/How-to-Get-Minamidaito-Island.html">
-    <img srcset="/assets/image/img-320.jpg 320w,
-                 /assets/image/img-640.jpg 640w,
-                 /assets/image/img-980.jpg 980w,
-                 /assets/image/img-1920.jpg 1920w"
-         sizes="(max-width: 320px) 100%,
-                (max-width: 640px) 100%,
-                (max-width: 980px) 100%, 100%"
-         src="/assets/image/img-1920.jpg" alt="旅03"
-         decoding="async"
-         width="640" height="480"><!-- 4:3 -->
-    <div class="p-article_card-content">
-      <h2 class="p-article_card-title">旅03</h2>
-      <div class="p-article_card-date">
-        <time datetime="2021-01-12">2021.01.12</time>
-      </div>
-    </div>
-  </a>
-</section>
-
-    
-      <section class="p-article_card">
-  <a href="/tech-and-design/2021/01/01/tech03.html">
-    <img srcset="/assets/image/img-320.jpg 320w,
-                 /assets/image/img-640.jpg 640w,
-                 /assets/image/img-980.jpg 980w,
-                 /assets/image/img-1920.jpg 1920w"
-         sizes="(max-width: 320px) 100%,
-                (max-width: 640px) 100%,
-                (max-width: 980px) 100%, 100%"
-         src="/assets/image/img-1920.jpg" alt="テック03"
-         decoding="async"
-         width="640" height="480"><!-- 4:3 -->
-    <div class="p-article_card-content">
-      <h2 class="p-article_card-title">テック03</h2>
-      <div class="p-article_card-date">
-        <time datetime="2021-01-01">2021.01.01</time>
-      </div>
-    </div>
-  </a>
-</section>
-
-    
-      <section class="p-article_card">
-  <a href="/tech-and-design/2020/12/29/tech02.html">
-    <img srcset="/assets/image/img-320.jpg 320w,
-                 /assets/image/img-640.jpg 640w,
-                 /assets/image/img-980.jpg 980w,
-                 /assets/image/img-1920.jpg 1920w"
-         sizes="(max-width: 320px) 100%,
-                (max-width: 640px) 100%,
-                (max-width: 980px) 100%, 100%"
-         src="/assets/image/img-1920.jpg" alt="テック02"
-         decoding="async"
-         width="640" height="480"><!-- 4:3 -->
-    <div class="p-article_card-content">
-      <h2 class="p-article_card-title">テック02</h2>
-      <div class="p-article_card-date">
-        <time datetime="2020-12-29">2020.12.29</time>
-      </div>
-    </div>
-  </a>
-</section>
-
-    
-      <section class="p-article_card">
-  <a href="/essay/2020/12/01/essay03.html">
-    <img srcset="/assets/image/img-320.jpg 320w,
-                 /assets/image/img-640.jpg 640w,
-                 /assets/image/img-980.jpg 980w,
-                 /assets/image/img-1920.jpg 1920w"
-         sizes="(max-width: 320px) 100%,
-                (max-width: 640px) 100%,
-                (max-width: 980px) 100%, 100%"
-         src="/assets/image/img-1920.jpg" alt="エッセイ03"
-         decoding="async"
-         width="640" height="480"><!-- 4:3 -->
-    <div class="p-article_card-content">
-      <h2 class="p-article_card-title">エッセイ03</h2>
-      <div class="p-article_card-date">
-        <time datetime="2020-12-01">2020.12.01</time>
-      </div>
-    </div>
-  </a>
-</section>
-
-    
-  </div>
-</section>
-<nav class="p-pagination-wrap">
-  
-  <a class="previous_button" href="/blog/" alt="前のページへ">
-    <span class="material-icons-round md-dark">chevron_right</span>
-  </a>
-  
-
-  
-  <div class="page_numbers">
-    
-    
-    
-    
-    <button class="page_numbers-button">
-      <div class="">02 / 05</div>
-      <span class="material-icons-round md-dark">chevron_right</span>
-    </button>
-    <ul class="page_numbers-list">
-      
-      
-      
-      <li>
-        <a href="/blog/" title="66g" >01 / 05</a>
+      <li class="p-page_nav-list-item">
+        <a class="c-button" href="/blog/travel">
+          <span class="label">旅と島</span>
+        </a>
       </li>
-      
-      
-      
-      <li>
-        <a href="/blog/2/" title="66g" class="selected">02 / 05</a>
+    
+      <li class="p-page_nav-list-item">
+        <a class="c-button" href="/blog/techanddesign">
+          <span class="label">テック&デザイン</span>
+        </a>
       </li>
-      
-      
-      
-      <li>
-        <a href="/blog/3/" title="66g" >03 / 05</a>
+    
+      <li class="p-page_nav-list-item">
+        <a class="c-button" href="/blog/livingandmoney">
+          <span class="label">暮らしとお金</span>
+        </a>
       </li>
-      
-      
-      
-      <li>
-        <a href="/blog/4/" title="66g" >04 / 05</a>
+    
+      <li class="p-page_nav-list-item">
+        <a class="c-button" href="/blog/hobby">
+          <span class="label">趣味</span>
+        </a>
       </li>
-      
-      
-      
-      <li>
-        <a href="/blog/5/" title="66g" >05 / 05</a>
+    
+      <li class="p-page_nav-list-item">
+        <a class="c-button" href="/blog/essay">
+          <span class="label">エッセイ</span>
+        </a>
       </li>
-      
-    </ul>
-  </div>
-  
-
-  
-  <a class="next_button" href="/blog/3/" alt="次のページへ">
-    <span class="material-icons-round md-dark">chevron_right</span>
-  </a>
-  
+    
+  </ul>
 </nav>
+
+        
+        <section class="p-post_list">
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-19">
+          2020.11.19
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-18">
+          2020.11.18
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-17">
+          2020.11.17
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-16">
+          2020.11.16
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-15">
+          2020.11.15
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-14">
+          2020.11.14
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/living-and-money/living01">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="暮らし01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">暮らし01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-13">
+          2020.11.13
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-13">
+          2020.11.13
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/hobby/hobby01">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="趣味01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">趣味01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-12">
+          2020.11.12
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="旅002"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">旅002</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-12">
+          2020.11.12
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/travel/How-to-Get-Minamidaito-Island">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="南大東島へのアクセス方法~船と飛行機の比較~01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">南大東島へのアクセス方法~船と飛行機の比較~01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-12">
+          2020.11.12
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+    <article class="p-card">
+  <a class="p-card-link" href="/blog/tech-and-design/tech01">
+    <img srcset="/assets/image/img-320.jpg 320w,
+                 /assets/image/img-640.jpg 640w,
+                 /assets/image/img-980.jpg 980w,
+                 /assets/image/img-1920.jpg 1920w"
+         sizes="(max-width: 320px) 100%,
+                (max-width: 640px) 100%,
+                (max-width: 980px) 100%, 100%"
+         src="/assets/image/img-1920.jpg" alt="テック01"
+         decoding="async"
+         width="640" height="480"><!-- 4:3 -->
+    <div class="p-card-content">
+      <h2 class="p-card-content-title">テック01</h2>
+      <div class="p-card-content-date">
+        <time datetime="2020-11-12">
+          2020.11.12
+        </time>
+      </div>
+    </div>
+  </a>
+</article>
+
+  
+</section>
 
 
       </div>
     </main>
-    <footer>
-  
+    <footer class="l-footer l-container">
+  <div class="l-inner l-footer-inner">
+    <div class="l-footer-primary">
+      <!-- <div class="l-footer-primary-nav"> -->
+        
+        <section class="l-footer-section">
+          <h2 class="l-footer-section-heading">Blog</h2>
+          <ul class="l-footer-section-list">
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/travel">旅と島</a>
+            </li>
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/techanddesign">テック&デザイン</a>
+            </li>
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/livingandmoney">暮らしとお金</a>
+            </li>
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/hobby">趣味</a>
+            </li>
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/essay">エッセイ</a>
+            </li>
+            
+          </ul>
+        </section>
+        
+        <section class="l-footer-section">
+          <h2 class="l-footer-section-heading">Portfolio</h2>
+          <ul class="l-footer-section-list">
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/programming">プログラミング</a>
+            </li>
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/photograph">写真</a>
+            </li>
+            
+          </ul>
+        </section>
+        
+        <section class="l-footer-section">
+          <h2 class="l-footer-section-heading">About</h2>
+          <ul class="l-footer-section-list">
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/aboutme">当サイトについて</a>
+            </li>
+            
+            <li class="l-footer-section-list-item">
+              <a href="/blog/contact">お問い合わせ</a>
+            </li>
+            
+          </ul>
+        </section>
+        
+      <!-- </div> -->
+      <section class="l-footer-section">
+        <ul class="l-footer-section-social">
+          
+            <li class="l-footer-section-social-item">
+              <a class="c-social_icon_wrap" href="https://www.instagram.com/w.m.daily/?hl=ja">
+                <svg id="svg-instagram" class="c-svg-social_icon" width="35.999mm" height="36mm" viewBox="0 0 35.999 36" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-117.24 -261.73)">
+  <g transform="matrix(.0144 0 0 .0144 117.24 261.73)">
+   <path d="m833.4 1250c0-230.11 186.49-416.7 416.6-416.7s416.7 186.59 416.7 416.7-186.59 416.7-416.7 416.7-416.6-186.59-416.6-416.7m-225.26 0c0 354.5 287.36 641.86 641.86 641.86s641.86-287.36 641.86-641.86-287.36-641.86-641.86-641.86-641.86 287.36-641.86 641.86m1159.1-667.31a150 150 0 1 0 150.06-149.94h-0.06a150.07 150.07 0 0 0-150 149.94m-1022.3 1684.8c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28 7.27-505.15c5.55-121.87 26-188 43-232.13 22.72-58.36 49.78-100 93.5-143.78s85.32-70.88 143.78-93.5c44-17.16 110.26-37.46 232.13-43 131.76-6.06 171.34-7.27 505-7.27s373.28 1.31 505.15 7.27c121.87 5.55 188 26 232.13 43 58.36 22.62 100 49.78 143.78 93.5s70.78 85.42 93.5 143.78c17.16 44 37.46 110.26 43 232.13 6.06 131.87 7.27 171.34 7.27 505.15s-1.21 373.28-7.27 505.15c-5.55 121.87-25.95 188.11-43 232.13-22.72 58.36-49.78 100-93.5 143.68s-85.42 70.78-143.78 93.5c-44 17.16-110.26 37.46-232.13 43-131.76 6.06-171.34 7.27-505.15 7.27s-373.28-1.21-505-7.27m-10.35-2259.9c-133.07 6.06-224 27.16-303.41 58.06-82.24 31.91-151.86 74.72-221.43 144.18s-112.27 139.19-144.18 221.43c-30.9 79.46-52 170.34-58.06 303.41-6.16 133.28-7.57 175.89-7.57 515.35s1.41 382.07 7.57 515.35c6.06 133.08 27.16 223.95 58.06 303.41 31.91 82.19 74.62 152 144.18 221.43s139.19 112.18 221.43 144.18c79.56 30.9 170.34 52 303.41 58.06 133.35 6.06 175.89 7.57 515.35 7.57s382.07-1.41 515.35-7.57c133.08-6.06 223.95-27.16 303.41-58.06 82.19-32 151.86-74.72 221.43-144.18s112.18-139.24 144.18-221.43c30.9-79.46 52.1-170.34 58.06-303.41 6.06-133.38 7.47-175.89 7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43s-139.24-112.27-221.33-144.18c-79.56-30.9-170.44-52.1-303.41-58.06-133.28-6.06-175.89-7.57-515.35-7.57s-382.1 1.41-515.45 7.57"/>
+   <path d="m833.4 1250c0-230.11 186.49-416.7 416.6-416.7s416.7 186.59 416.7 416.7-186.59 416.7-416.7 416.7-416.6-186.59-416.6-416.7m-225.26 0c0 354.5 287.36 641.86 641.86 641.86s641.86-287.36 641.86-641.86-287.36-641.86-641.86-641.86-641.86 287.36-641.86 641.86m1159.1-667.31a150 150 0 1 0 150.06-149.94h-0.06a150.07 150.07 0 0 0-150 149.94m-1022.3 1684.8c-121.87-5.55-188.11-25.85-232.13-43-58.36-22.72-100-49.78-143.78-93.5s-70.88-85.32-93.5-143.68c-17.16-44-37.46-110.26-43-232.13-6.06-131.76-7.27-171.34-7.27-505.15s1.31-373.28 7.27-505.15c5.55-121.87 26-188 43-232.13 22.72-58.36 49.78-100 93.5-143.78s85.32-70.88 143.78-93.5c44-17.16 110.26-37.46 232.13-43 131.76-6.06 171.34-7.27 505-7.27s373.28 1.31 505.15 7.27c121.87 5.55 188 26 232.13 43 58.36 22.62 100 49.78 143.78 93.5s70.78 85.42 93.5 143.78c17.16 44 37.46 110.26 43 232.13 6.06 131.87 7.27 171.34 7.27 505.15s-1.21 373.28-7.27 505.15c-5.55 121.87-25.95 188.11-43 232.13-22.72 58.36-49.78 100-93.5 143.68s-85.42 70.78-143.78 93.5c-44 17.16-110.26 37.46-232.13 43-131.76 6.06-171.34 7.27-505.15 7.27s-373.28-1.21-505-7.27m-10.35-2259.9c-133.07 6.06-224 27.16-303.41 58.06-82.24 31.91-151.86 74.72-221.43 144.18s-112.27 139.19-144.18 221.43c-30.9 79.46-52 170.34-58.06 303.41-6.16 133.28-7.57 175.89-7.57 515.35s1.41 382.07 7.57 515.35c6.06 133.08 27.16 223.95 58.06 303.41 31.91 82.19 74.62 152 144.18 221.43s139.19 112.18 221.43 144.18c79.56 30.9 170.34 52 303.41 58.06 133.35 6.06 175.89 7.57 515.35 7.57s382.07-1.41 515.35-7.57c133.08-6.06 223.95-27.16 303.41-58.06 82.19-32 151.86-74.72 221.43-144.18s112.18-139.24 144.18-221.43c30.9-79.46 52.1-170.34 58.06-303.41 6.06-133.38 7.47-175.89 7.47-515.35s-1.41-382.07-7.47-515.35c-6.06-133.08-27.16-224-58.06-303.41-32-82.19-74.72-151.86-144.18-221.43s-139.24-112.27-221.33-144.18c-79.56-30.9-170.44-52.1-303.41-58.06-133.28-6.06-175.89-7.57-515.35-7.57s-382.1 1.41-515.45 7.57"/>
+  </g>
+ </g>
+</svg>
+
+              </a>
+            </li>
+          
+          
+            <li class="l-footer-section-social-item">
+              <a class="c-social_icon_wrap" href="https://twitter.com/TYABUDAI6">
+                <svg id="svg-twitter" class="c-svg-social_icon" width="36mm" height="29.255mm" viewBox="0 0 36 29.255" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-96.135 -239.93)">
+  <path d="m128.45 247.21c0.0227 0.31748 0.0227 0.63474 0.0227 0.95502 0 9.7594-7.4296 21.015-21.015 21.015v-8e-3c-4.0131 8e-3 -7.9429-1.1436-11.321-3.3111 0.58355 0.0703 1.17 0.10545 1.758 0.10658 3.3258 3e-3 6.5565-1.113 9.173-3.1678-3.1605-0.0601-5.932-2.1207-6.9002-5.129 1.1071 0.21354 2.2479 0.1697 3.3346-0.12738-3.4457-0.69615-5.9247-3.7236-5.9247-7.2395v-0.0937c1.0267 0.57185 2.1762 0.88922 3.3521 0.92429-3.2453-2.1689-4.2457-6.4862-2.2859-9.8618 3.7499 4.6143 9.2826 7.4194 15.222 7.7163-0.59528-2.5653 0.21771-5.2534 2.1367-7.0567 2.9747-2.7964 7.6534-2.653 10.45 0.32013 1.6541-0.32618 3.2395-0.93306 4.6903-1.793-0.55136 1.7097-1.7053 3.162-3.2468 4.0848 1.464-0.17272 2.8943-0.56451 4.2413-1.1627-0.99161 1.4859-2.2406 2.7802-3.6856 3.826z" stroke-width=".14625"/>
+ </g>
+</svg>
+
+              </a>
+            </li>
+          
+          
+            <li class="l-footer-section-social-item">
+              <a class="c-social_icon_wrap" href="https://www.youtube.com/channel/UCD6jP1TUw3ExS_2safR5JNw">
+                <svg id="svg-youtube" class="c-svg-social_icon" width="36mm" height="25.329mm" viewBox="0 0 36 25.329" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-108.04 -248.83)">
+  <g transform="matrix(.18588 0 0 .18588 66.6 261.77)">
+   <path d="m299.92 66.59c-34.895-0.82821-51.589-2.1743-58.278-4.6991-6.3515-2.3972-11.616-7.7372-14.079-14.28-2.7163-7.2166-4.6356-27.555-4.6356-49.122 0-21.568 1.9193-41.906 4.6356-49.122 2.4628-6.5432 7.7275-11.883 14.079-14.28 8.3356-3.1461 34.253-4.708 78.122-4.708s69.786 1.5619 78.122 4.708c6.3515 2.3972 11.616 7.7372 14.079 14.28 2.7163 7.2166 4.6356 27.555 4.6356 49.122 0 21.568-1.9193 41.906-4.6356 49.122-2.4628 6.5432-7.7275 11.883-14.079 14.28-5.7564 2.1726-18.281 3.3983-44.388 4.3437-7.2511 0.26258-46.515 0.523-53.578 0.35536zm37.108-60.153c7.5307-4.2817 13.692-7.8575 13.692-7.9463s-6.1615-3.6656-13.692-7.9484c-7.5307-4.2828-18.961-10.786-25.4-14.451l-11.708-6.6641v58.123l11.708-6.6639c6.4393-3.6652 17.869-10.167 25.4-14.449z" stroke-width=".26458"/>
+   <path transform="matrix(.26458 0 0 .26458 222.93 -69.622)" d="m293.14 257.43v-106.88l23.571 13.584c12.964 7.4711 54.75 31.312 92.857 52.98s69.286 39.811 69.286 40.319c0 0.50726-31.179 18.651-69.286 40.319s-79.893 45.509-92.857 52.98l-23.571 13.584z" fill="transparent" stroke-width="2.8571"/>
+  </g>
+ </g>
+</svg>
+
+              </a>
+            </li>
+          
+        </ul>
+      </section>
+    </div>
+    <div class="l-footer-logotype">
+      <a class="c-logotype" href="/">66G</a>
+    </div>
+    <div class="l-footer-secondary">
+      <ul class="l-footer-secondary-list c-list-row">
+        <li class="l-footer-secondary-list-item">
+          <a href="#">プライバシーポリシー</a>
+        </li>
+      </ul>
+      <span class="l-footer-secondary-copyright">
+        ©︎2021 66G
+      </span>
+    </div>
+  </div>
 </footer>
 
   </body>
